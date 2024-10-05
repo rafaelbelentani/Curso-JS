@@ -1,0 +1,30 @@
+<br>
+        <p> Lista de Compras Desordenada:</p>
+        <ul> <!-- lista desordenada -->
+            <li type="disc">Pão</li>
+            <li type="disc">Presunto</li>
+            <li type="disc">
+                Refrigerante
+                <ul>
+                    <li type="square">
+                        Coca-Cola
+                        <ul>
+                            <li type="circle">Lata</li>
+                            <li type="circle">600ml</li>
+                            <li type="circle">1Litro</li>
+                        </ul>
+                    </li>
+                    <li type="square">Fanta</li>
+                    <li type="square">Sprite</li>
+                </ul>
+            </li>
+            <li type="disc">Muçarela</li>
+        </ul>
+        <br>
+        <p> Lista de Compras Ordenada:</p>
+        <ol> <!-- lista ordenada -->
+            <li>Pão</li>
+            <li>Presunto</li>
+            <li>Refrigerante</li>
+            <li>Muçarela</li>
+        </ol>
